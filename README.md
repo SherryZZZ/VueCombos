@@ -1,6 +1,6 @@
 # Vue Combos
 
-> 一个基于Vue.js 2.0 + Element UI 的多功能后台框架模板。
+> 一个基于Vue.js 2.0 + Element UI 的多功能后台管理系统框架模板。
 
 ## 前言 ##
 这是一套运用vue-cli+vue-Echarts+vue-router+vue-resource+ElementUI实现的后台管理系统解决方案，实现了大多数后台管理系统所需功能。使用vue全家桶和Element UI组件库能够方便快速的开发简洁好看功能强大的页面。
@@ -55,7 +55,7 @@
 
 ## 安装步骤 ##
 
-	git clone https://github.com/lin-xin/manage-system.git		// 把模板下载到本地
+	git clone https://github.com/SherryZZZ/VueCombos.git		// 把模板下载到本地
 	cd manage-system											// 进入模板目录
 	npm install													// 安装项目依赖，等待安装完成之后
 
