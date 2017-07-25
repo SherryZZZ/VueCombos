@@ -84,5 +84,11 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+## 项目截图
+### 表格页 ###
 
+![Image text](https://github.com/SherryZZZ/VueCombos/raw/master/screenshots/shots1.png)
+### 图表页 ###
+
+![Image text](https://github.com/SherryZZZ/VueCombos/raw/master/screenshots/shots2.png)
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
