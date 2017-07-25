@@ -20,13 +20,15 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-    .content{
-      display: block;
-      width: 82%;
-      height: 700px;
-      position: absolute;
-      top: 70px;
-      left: 18%;
-      background-color: #f9f7f7;
-    }
+  .content{
+    display: block;
+    width: 82%;
+    padding:20px;
+    position: absolute;
+    top: 70px;
+    left: 18%;
+    bottom: 0;
+    background-color: #f9f7f7;
+    overflow: scroll;
+  }
 </style>

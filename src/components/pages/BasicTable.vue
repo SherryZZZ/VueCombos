@@ -200,20 +200,22 @@
     height: 700px;
   }
   .basicTable .main-header{
+    padding-left: 20px;
     margin-bottom: 10px;
     font-size: 14px;
   }
   .basicTable .main-header .search-title{
     padding-left: 8px;
+    margin-bottom: 10px;
     font-size: 16px;
     height: 24px;
     line-height: 24px;
   }
-  .basicTable .main-header .el-row{
-    padding-left: 18px;
-  }
   .basicTable .main-header .el-select .el-input {
     width: 110px;
+  }
+  .basicTable .table{
+    padding-left: 20px;
   }
   .basicTable .table .el-pagination{
     float: right;

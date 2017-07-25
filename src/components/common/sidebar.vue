@@ -78,7 +78,6 @@
       left: 0;
       top: 70px;
       bottom: 0;
-
       background-color: #218464;
     }
     .el-menu, .el-submenu .el-menu{

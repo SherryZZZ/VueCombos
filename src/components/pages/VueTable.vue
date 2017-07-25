@@ -1,5 +1,5 @@
 <template>
-  <div class="main">
+  <div class="main vueTable">
     <v-PageTitle vtitle="VResource加载动态数据"></v-PageTitle>
     <div class="main-header">
         <p class="search-title"><i class="el-icon-search"></i>条件查询</p>
@@ -90,19 +90,21 @@
 </script>
 
 <style>
-  .main-header{
+  .vueTable .main-header{
     padding-left: 20px;
     margin-bottom: 20px;
   }
-  .search-title{
+  .vueTable .search-title{
     margin-bottom: 10px;
   }
-  .table{
+  .vueTable .table{
     padding-left: 20px;
     margin-bottom: 15px;
   }
-  .main-header .el-select .el-input {
+  .vueTable .main-header .el-input .el-select .el-input__inner{
     width: 110px;
   }
-
+  .vueTable .table .el-pagination{
+    float: right;
+  }
 </style>
