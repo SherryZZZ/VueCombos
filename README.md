@@ -91,4 +91,3 @@ npm run build --report
 ### 图表页 ###
 
 ![Image text](https://github.com/SherryZZZ/VueCombos/raw/master/screenshots/shots2.png)
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
